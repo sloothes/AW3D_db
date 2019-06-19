@@ -1,0 +1,1 @@
+[{"name":"skeleton","visible":true,"scale":[1,1,1],"geometry":"/skinned/skeleton/skeleton.json","materials":[{"type":"MeshLambertMaterial","options":{"name":"HF_SkeletonMaterial","color":16777215,"side":0,"opacity":1,"shading":2,"emissive":0,"skinning":true,"transparent":false}}],"_id":"skeleton"}]
